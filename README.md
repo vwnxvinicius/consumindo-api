@@ -19,7 +19,8 @@ informações nutricionais da fruta escolhida
 
 <h1>Como usar</h1>
 Copie o link do repositório e use um: `git clone https://github.com/vwnxvinicius/consumindo-api.git`
-Instale as dependências usando: `pip install -r requirements.txt`
+Instale as dependências usando: 
+`pip install -r requirements.txt`
 **Obs:** Lembre-se de ativar o ambiente virtual
 Depois use o comando: `python manage.py runserver`
 E se tudo tiver dado certo, você vai conseguir acessar o site!
